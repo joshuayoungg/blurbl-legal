@@ -1,2 +1,2 @@
-# livre-legal
+# blurbl-legal
 contains privacy and terms for livre
